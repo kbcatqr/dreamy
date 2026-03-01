@@ -1,4 +1,7 @@
 // Movimento
+global.vida = 5;
+
+
 velh        = 0;//define a velocidade horizontal;
 velv        = 0;//define a velocidade vertical;
 

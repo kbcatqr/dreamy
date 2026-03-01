@@ -1,15 +1,11 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
-audio_stop_sound(snd_trovao)
-audio_stop_sound(snd_final)
-global.vida = 10;
-room_goto_next()
+colidiu = false;
+vspeed = 4
 
 
-
-
-
+start_x = x;
+start_y = y;
 
 
 

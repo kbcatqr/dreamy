@@ -1,11 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-audio_stop_sound(snd_trovao)
-audio_stop_sound(snd_final)
-global.vida = 10;
-room_goto_next()
-
+audio_play_sound(snd_final,1,true);
 
 
 

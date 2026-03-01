@@ -3,7 +3,9 @@
 night_alpha += 0.001;
 
 if (night_alpha > 1) {
-    night_alpha = 1; // limite máximo da escuridão
+    night_alpha = 1;// limite máximo da escuridão
+	audio_stop_sound(snd_final)
+	global.vida =5;
 	room_restart()
 }
 
