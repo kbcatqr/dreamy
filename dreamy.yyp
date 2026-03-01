@@ -73,10 +73,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_surf","path":"rooms/rm_surf/rm_surf.yy",},},
     {"roomId":{"name":"rm_jardim","path":"rooms/rm_jardim/rm_jardim.yy",},},
     {"roomId":{"name":"rm_mosteiro_final","path":"rooms/rm_mosteiro_final/rm_mosteiro_final.yy",},},
     {"roomId":{"name":"rm_sonho","path":"rooms/rm_sonho/rm_sonho.yy",},},
-    {"roomId":{"name":"rm_surf","path":"rooms/rm_surf/rm_surf.yy",},},
     {"roomId":{"name":"rm_game_ending","path":"rooms/rm_game_ending/rm_game_ending.yy",},},
   ],
   "Folders": [

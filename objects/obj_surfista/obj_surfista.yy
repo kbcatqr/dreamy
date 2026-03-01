@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_surfista",
   "spriteId": {
-    "name": "spr_player",
-    "path": "sprites/spr_player/spr_player.yy",
+    "name": "spr_surfista",
+    "path": "sprites/spr_surfista/spr_surfista.yy",
   },
   "solid": true,
   "visible": true,
